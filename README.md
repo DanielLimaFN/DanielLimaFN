@@ -6,6 +6,7 @@
 
 <br>
 •  Conhecimento em Clean Code.<br>
+•  Boa utilização no gerenciamento de estado (MobX)<br>
 •  Experiência em consumo de APIs.<br>
 •  Conhecimento de boas práticas em programação;<br>
 •  Conhecimento sobre o ciclo de vida dos widgets.<br>
