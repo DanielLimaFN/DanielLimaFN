@@ -12,3 +12,6 @@
 •  Conhecimento sobre o ciclo de vida dos widgets.<br>
 •  Experiência em Git e Rest API.<br>
 •  Reproduzir telas elaboradas no Figma(ou semelhantes).</p>
+<br>
+• Certificado curso flutter escola Cod3r:
+<a href="https://udemy-certificate.s3.amazonaws.com/pdf/UC-828e54b2-b858-4167-a021-0b004094448d.pdf"> [Link do certificado] </a></p>
