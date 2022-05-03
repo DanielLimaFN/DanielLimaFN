@@ -36,6 +36,5 @@
 </p>
 
 </p><br>
-• Certificado curso flutter escola Cod3r:
-<a href="https://udemy-certificate.s3.amazonaws.com/pdf/UC-828e54b2-b858-4167-a021-0b004094448d.pdf"> [Link do certificado] </a></p>
+
 
