@@ -25,9 +25,6 @@
 <br>
 🤏 Habilidade que estou desenvolvendo no momento:
 <br>
-• Desenvolvimento de Layout responsivo<br>
-• Arquitetura MVC/MVVM<br>
-• Design System<br>
 • Bloc e Redux<br>
 • Testes automatizados.<br>
 </p>
