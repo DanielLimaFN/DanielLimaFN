@@ -9,7 +9,7 @@
 <p class="has-line-data" data-line-start="6" data-line-end="7">Olá sou o Daniel atualmente sou programador Flutter, já trabalho na área de desenvolvimento a mais de 7 anos. Minha primeira linguagem de Programação foi o Java, criando Plugins para o donos de servidores do jogo minecraft. Logo apos o java trabalhei como Python até conhecer o Dart e o Flutter, nos quais me dedico totalmente em desenvolver ainda mais as minha habilidades nessa linguagem e framework.</p>
 
 
-
+<p> Minha pagina na PlayStore: https://play.google.com/store/apps/dev?id=5537621144501656832
 
 <p class="has-line-data" data-line-start="8" data-line-end="18">👌  Minhas Competencias em Flutter:
 
