@@ -11,7 +11,7 @@
 
 <p> Minha pagina na PlayStore: https://play.google.com/store/apps/dev?id=5537621144501656832
 
-<p class="has-line-data" data-line-start="8" data-line-end="18">👌  Minhas Competencias em Flutter:
+<p class="has-line-data" data-line-start="8" data-line-end="18">👌 Minhas Competencias em Flutter:
 
 <br>
 •  Conhecimento em Clean Code.<br>
@@ -36,6 +36,18 @@
   
 <br>
 
+<p>
+  
+
+  ## Meus Certificados Flutter:
+  Flutter: Carga Horaria: 59 Horas - [Certificado](https://udemy-certificate.s3.amazonaws.com/image/UC-828e54b2-b858-4167-a021-0b004094448d.jpg).<br>
+  Flutter: Carga Horaria: 67 Horas - [Certificado](https://udemy-certificate.s3.amazonaws.com/image/UC-d36ebaa9-9157-408a-937d-9d1c322ed76e.jpg).<br>
+  Flutter: Carga Horaria: 7 Horas - [Certificado](https://udemy-certificate.s3.amazonaws.com/image/UC-13ac8006-a129-402e-a288-9009466ade3a.jpg).<br>
+  Clean Code: Carga Horaria: 9 Horas - [Certificado](https://udemy-certificate.s3.amazonaws.com/image/UC-241c170c-79b5-42e6-9183-ec502103f94b.jpg).
+
+
+  
+<br>
 
 
 <a href="https://github.com/daniellimafn/">
