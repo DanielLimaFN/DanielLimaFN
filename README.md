@@ -20,22 +20,24 @@
 •  Conhecimento de boas práticas em programação;<br>
 •  Conhecimento sobre o ciclo de vida dos widgets.<br>
 •  Experiência em Rest API.<br>
-•  Reproduzir telas elaboradas no Figma(ou semelhantes).</p>
+•  Reproduzir telas elaboradas no Figma.</p>
 <br>
 
 🤌 Competencias em Geral:<br>
 • Ingles intermediario<br>
 • Git<br>
-• JSON<br>
-• XML<br>
-• Bancos de dados NoSQL/SQL<br>
+• JSON, XML<br>
+• Bancos de dados NoSQL (MongoDB, FireBase, Cassandra)<br>
+• Bancos de dados SQL<br>
 • Monitoramento de aplicações/registros das aplicações<br>
 • Experiência com Cloud Computing<br>
-
+• Google Cloud Plataform, Azure, DigitalOcean, Aws, Vultr.<br>
+• Linux: Debian, Ubuntu, CentOS <br>
+  
 <br>
-🤏 Habilidade que estou desenvolvendo no momento:
-<br>
-• Bloc e Redux<br>
-• Testes automatizados.<br>
-</p>
 
+
+
+<a href="https://github.com/daniellimafn/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=daniellimafn&count_private=true&show_icons=true&theme=dark&hide_border=false" />
+</a> 
