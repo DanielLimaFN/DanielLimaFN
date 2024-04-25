@@ -27,7 +27,7 @@
 • Ingles intermediario<br>
 • Git<br>
 • JSON, XML<br>
-• Bancos de dados NoSQL (MongoDB, FireBase, Cassandra)<br>
+• Bancos de dados NoSQL (MongoDB, Firestore, Cassandra)<br>
 • Bancos de dados SQL<br>
 • Monitoramento de aplicações/registros das aplicações<br>
 • Experiência com Cloud Computing<br>
